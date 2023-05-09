@@ -1,0 +1,12 @@
+E:\User\Documentos\Stride Projects\PoC_BreakEntityRemoval\PoC_BreakEntityRemoval\bin\Debug\net6.0-windows\PoC_BreakEntityRemoval.deps.json
+E:\User\Documentos\Stride Projects\PoC_BreakEntityRemoval\PoC_BreakEntityRemoval\bin\Debug\net6.0-windows\PoC_BreakEntityRemoval.dll
+E:\User\Documentos\Stride Projects\PoC_BreakEntityRemoval\PoC_BreakEntityRemoval\bin\Debug\net6.0-windows\PoC_BreakEntityRemoval.pdb
+E:\User\Documentos\Stride Projects\PoC_BreakEntityRemoval\PoC_BreakEntityRemoval\obj\Debug\net6.0-windows\PoC_BreakEntityRemoval.csproj.AssemblyReference.cache
+E:\User\Documentos\Stride Projects\PoC_BreakEntityRemoval\PoC_BreakEntityRemoval\obj\Debug\net6.0-windows\PoC_BreakEntityRemoval.GeneratedMSBuildEditorConfig.editorconfig
+E:\User\Documentos\Stride Projects\PoC_BreakEntityRemoval\PoC_BreakEntityRemoval\obj\Debug\net6.0-windows\PoC_BreakEntityRemoval.AssemblyInfoInputs.cache
+E:\User\Documentos\Stride Projects\PoC_BreakEntityRemoval\PoC_BreakEntityRemoval\obj\Debug\net6.0-windows\PoC_BreakEntityRemoval.AssemblyInfo.cs
+E:\User\Documentos\Stride Projects\PoC_BreakEntityRemoval\PoC_BreakEntityRemoval\obj\Debug\net6.0-windows\PoC_BreakEntityRemoval.csproj.CoreCompileInputs.cache
+E:\User\Documentos\Stride Projects\PoC_BreakEntityRemoval\PoC_BreakEntityRemoval\obj\Debug\net6.0-windows\PoC_BreakEntityRemoval.dll
+E:\User\Documentos\Stride Projects\PoC_BreakEntityRemoval\PoC_BreakEntityRemoval\obj\Debug\net6.0-windows\refint\PoC_BreakEntityRemoval.dll
+E:\User\Documentos\Stride Projects\PoC_BreakEntityRemoval\PoC_BreakEntityRemoval\obj\Debug\net6.0-windows\PoC_BreakEntityRemoval.pdb
+E:\User\Documentos\Stride Projects\PoC_BreakEntityRemoval\PoC_BreakEntityRemoval\obj\Debug\net6.0-windows\ref\PoC_BreakEntityRemoval.dll

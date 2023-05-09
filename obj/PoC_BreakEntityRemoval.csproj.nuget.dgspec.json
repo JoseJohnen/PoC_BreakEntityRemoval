@@ -1,0 +1,98 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\User\\Documentos\\Stride Projects\\PoC_BreakEntityRemoval\\PoC_BreakEntityRemoval\\PoC_BreakEntityRemoval.csproj": {}
+  },
+  "projects": {
+    "E:\\User\\Documentos\\Stride Projects\\PoC_BreakEntityRemoval\\PoC_BreakEntityRemoval\\PoC_BreakEntityRemoval.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\User\\Documentos\\Stride Projects\\PoC_BreakEntityRemoval\\PoC_BreakEntityRemoval\\PoC_BreakEntityRemoval.csproj",
+        "projectName": "PoC_BreakEntityRemoval",
+        "projectPath": "E:\\User\\Documentos\\Stride Projects\\PoC_BreakEntityRemoval\\PoC_BreakEntityRemoval\\PoC_BreakEntityRemoval.csproj",
+        "packagesPath": "C:\\Users\\Jose Johnen\\.nuget\\packages\\",
+        "outputPath": "E:\\User\\Documentos\\Stride Projects\\PoC_BreakEntityRemoval\\PoC_BreakEntityRemoval\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jose Johnen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "D:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "D:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Stride.Core.Assets.CompilerApp": {
+              "include": "Build, BuildTransitive",
+              "target": "Package",
+              "version": "[4.1.0.1822, )"
+            },
+            "Stride.Engine": {
+              "target": "Package",
+              "version": "[4.1.0.1822, )"
+            },
+            "Stride.Navigation": {
+              "target": "Package",
+              "version": "[4.1.0.1822, )"
+            },
+            "Stride.Particles": {
+              "target": "Package",
+              "version": "[4.1.0.1822, )"
+            },
+            "Stride.Physics": {
+              "target": "Package",
+              "version": "[4.1.0.1822, )"
+            },
+            "Stride.UI": {
+              "target": "Package",
+              "version": "[4.1.0.1822, )"
+            },
+            "Stride.Video": {
+              "target": "Package",
+              "version": "[4.1.0.1822, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "D:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

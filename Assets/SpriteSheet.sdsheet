@@ -1,0 +1,22 @@
+!SpriteSheet
+Id: 8d6f9885-0f48-4261-912b-4458d12178ed
+SerializedVersion: {Stride: 2.0.0.0}
+Tags: []
+Type: Sprite2D
+ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}
+Packing: {}
+Sprites:
+    e2914ca199f4eeb30b50d71006aa3e51:
+        Source: !file Tileset_2.png
+        Name: Grass
+        TextureRegion: {X: 16, Y: 0, Width: 16, Height: 16}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    e6b6a871ae5ee414e4461f17767dd2b4:
+        Source: !file Tileset_2.png
+        Name: Sand
+        TextureRegion: {X: 48, Y: 0, Width: 16, Height: 16}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
