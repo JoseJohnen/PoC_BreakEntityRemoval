@@ -29,6 +29,7 @@ namespace Map_Editor_HoD.Controllers
     {
         public WorldController worldController;
         public static Controller controller;
+        public static SceneSystem systemController;
         //private static string instrucciones;
 
         public IDatabaseFileProviderService dataFileProviderService;
@@ -107,6 +108,7 @@ namespace Map_Editor_HoD.Controllers
             base.Start();
             controller = Entity.Get<Controller>();
             //Starting to prepare everything else
+            systemController = SceneSystem;
 
             InitTimer();
 

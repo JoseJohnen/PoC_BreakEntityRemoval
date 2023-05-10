@@ -347,22 +347,26 @@ namespace Map_Editor_HoD.TilesModels
                         }
 
                         // Remove the entity from the scene
+
+                        /* Nullify Attempt, didn't work
                         rnTile.entity = null;
                         rnTile = null;
-                        /*if (rnTile.entity != null)
+                        */
+
+
+                        if (rnTile.entity != null)
                         {
                             if (rnTile.entity.Scene != null)
                             {
                                 if (rnTile.entity.Scene.Entities.Contains(rnTile.entity))
                                 {
-                                    rnTile.entity.Scene.Entities.Remove(rnTile.entity);
+                                    //Using the Scene from the own entity, didn't work
+                                    //rnTile.entity.Scene.Entities.Remove(rnTile.entity);
+                                    //Using a reference from SystemController to get the entity, didn't work
+                                    Controller.systemController.SceneInstance.RootScene.Entities.Remove(rnTile.entity);
                                 }
                             }
-                            else
-                            {
-                                rnTile.entity 
-                            }
-                        }*/
+                        }
 
                         // Dispose of the entity
                         //rnTile.entity.Dispose();
